@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NuttyCoder
-- 👀 I’m interested in learning Javascript, both frontend and backend.
-- 🌱 I’m currently learning Git and Javascript.
+- 👀 I’m interested in FrontEnd & Backend Development
+- 🌱 I enjoy learning new languages.
 - 💞️ I’m looking to collaborate on working on apps.
 - 📫 How to reach me nuttycoders@gmail.com
 
