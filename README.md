@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NuttyCoder
-- 👀 I’m interested in FrontEnd & Backend Development
+- 👀 I’m interested in FrontEnd & Backend Development the wonders of Artifical Intelligence
 - 🌱 I enjoy learning new languages.
 - 💞️ I’m looking to collaborate on working on apps.
 - 📫 How to reach me nuttycoders@gmail.com
