@@ -1,0 +1,18 @@
+repo_name: NuttyCoder/NuttyCoder
+report_id: da0739b631e7a10d569b65d5fbbb7c61
+repo_type: Public
+timestamp: '2023-11-09T19:32:41+00:00'
+requested_by: NuttyCoder
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
