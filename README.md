@@ -3,7 +3,7 @@
 - 🌱 I enjoy learning new languages.
 - 💞️ I’m looking to collaborate on AI and working robotics programs.
 - 📫 How to reach me nuttycoders@gmail.com
-- I'm interested in making new connects and continuous learning.
+- I'm interested in making new connections and continuous learning.
 
 <!---
 NuttyCoder/NuttyCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
