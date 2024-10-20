@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NuttyCoder ... Heather Scheer.
-- 👀 Programer/Python/Javascript
+- 👀 Programmer/Python/Javascript
 - Artifical Intelligence/Computer Vision
 - 🌱 Innovation is the future!
 - 💞️ Collaborate on AI and working robotics programs.
