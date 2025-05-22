@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transf
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools Used
 ## Data Scientist
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
