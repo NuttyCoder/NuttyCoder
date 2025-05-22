@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transf
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-## Software Engineer
+## Software Engineer with Dev ops
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
