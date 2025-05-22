@@ -1,10 +1,5 @@
-<!-- Optional: Add a banner image -->
 
-![d30ee4a3-1e87-4f1e-be1a-ba80fe652ed1](https://github.com/user-attachments/assets/65b96237-9a07-429f-a695-d7e75f6ca983)
-
-
-
-# 👋 Hi, I'm Heather!
+# Hello👋 , I'm Heather Scheer
 
 Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transforming data into actionable insights. I specialize in **machine learning**, **statistical analysis**, and **data visualization**. I also have a background in Frontend Development and Graphic Information.
 
@@ -13,9 +8,9 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transf
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: [Your current project or area of focus]
-- 🌱 I’m learning: [Latest technology, tool, or area you're exploring]
+- 🌱 I’m learning: AWS, Yes I know....
 - 💬 Ask me about: Data Science, Machine Learning, Python, Visualization
-- 📫 How to reach me: [your.email@example.com] | [LinkedIn](https://linkedin.com/in/NuttyCoder)
+- 📫 How to reach me: heathermscheer@gmail.com | [LinkedIn](https://linkedin.com/in/NuttyCoder)
 - ⚡ Fun fact: [A fun or unique fact about you]
 
 ---
