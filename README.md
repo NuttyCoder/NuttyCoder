@@ -1,6 +1,7 @@
 <!-- Optional: Add a banner image -->
 
-![6baefc5d-d5cc-4449-9cd9-161d3d6eaa64](https://github.com/user-attachments/assets/9ae5b5c7-28c3-4688-9e44-21e6e1df457a)
+![d30ee4a3-1e87-4f1e-be1a-ba80fe652ed1](https://github.com/user-attachments/assets/65b96237-9a07-429f-a695-d7e75f6ca983)
+
 
 
 # 👋 Hi, I'm Heather!
