@@ -1,8 +1,7 @@
 <!-- Optional: Add a banner image -->
 
-<img src="https://github.com/user-attachments/assets/13f05b38-34bb-4be1-9dda-8f2e539815c8" width="1020" height="200"/>
+![6baefc5d-d5cc-4449-9cd9-161d3d6eaa64](https://github.com/user-attachments/assets/9ae5b5c7-28c3-4688-9e44-21e6e1df457a)
 
-![75a74cb0-952f-400f-8d8e-0788e5a8be3c](https://github.com/user-attachments/assets/aae3cf12-b435-43f0-9c32-9f5c84c6e31d)
 
 # 👋 Hi, I'm Heather!
 
