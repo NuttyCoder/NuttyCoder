@@ -8,11 +8,11 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transf
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Your current project or area of focus]
+- 🔭 I’m currently working on: Top Secret shhhhhh
 - 🌱 I’m learning: AWS, Yes I know....
 - 💬 Ask me about: Data Science, Machine Learning, Python, Visualization
 - 📫 How to reach me: heathermscheer@gmail.com | [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- ⚡ Fun fact: [A fun or unique fact about you]
+- ⚡ Fun fact: To relax I love working in my woodshop or going on a hike.
 
 ---
 
