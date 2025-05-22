@@ -1,6 +1,6 @@
 <!-- Optional: Add a banner image -->
 
-)![DaTA sCIENTIST BANNER](https://github.com/user-attachments/assets/13f05b38-34bb-4be1-9dda-8f2e539815c8)
+<img src="https://github.com/user-attachments/assets/13f05b38-34bb-4be1-9dda-8f2e539815c8" height="200"/>
 
 
 # 👋 Hi, I'm Heather!
