@@ -1,8 +1,8 @@
 
-# Hello👋 , I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="heather-scheer-5b554751" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/heather-scheer-5b554751?trk=profile-badge">Heather Scheer</a></div>
+# Hello👋 , I'm Heather Scheer.
               
 
-Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transforming data into actionable insights. I specialize in **machine learning**, **statistical analysis**, and **data visualization**. I also have a background in **Frontend Development** and **Graphic Information**.
+Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transforming data into actionable insights. I specialize in **Machine Learning**, **Statistical Analysis**, and **Data Visualization**. I also have a background in **Frontend Development** and **Graphic Information**.
 
 ---
 
@@ -11,13 +11,13 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transf
 - 🔭 I’m currently working on: [Your current project or area of focus]
 - 🌱 I’m learning: AWS, Yes I know....
 - 💬 Ask me about: Data Science, Machine Learning, Python, Visualization
-- 📫 How to reach me: heathermscheer@gmail.com | [LinkedIn](https://linkedin.com/in/NuttyCoder)
+- 📫 How to reach me: heathermscheer@gmail.com | [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - ⚡ Fun fact: [A fun or unique fact about you]
 
 ---
 
 ## 🛠️ Languages & Tools
-
+## Data Scientist
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -28,7 +28,9 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transf
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## Software Engineer
 
+## Graphic Information
 ---
 
 ## 📊 GitHub Stats
