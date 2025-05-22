@@ -1,5 +1,5 @@
 
-# Hello👋 , I'm Heather Scheer <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="heather-scheer-5b554751" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/heather-scheer-5b554751?trk=profile-badge">Heather Scheer</a></div>
+# Hello👋 , I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="heather-scheer-5b554751" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/heather-scheer-5b554751?trk=profile-badge">Heather Scheer</a></div>
               
 
 Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transforming data into actionable insights. I specialize in **machine learning**, **statistical analysis**, and **data visualization**. I also have a background in **Frontend Development** and **Graphic Information**.
