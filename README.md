@@ -2,7 +2,7 @@
 # Hello👋 , I'm Heather Scheer.
               
 
-Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transforming data into actionable insights. I specialize in **Machine Learning**, **Statistical Analysis**, and **Data Visualization**. I also have a background in **Frontend Development** and **Graphic Information**.
+<!--Welcome to my GitHub! I'm a passionate **Data Scientist** with a love for transforming data into actionable insights. I specialize in **Machine Learning**, **Statistical Analysis**, and **Data Visualization**. I also have a background in **Frontend Development** and **Graphic Information**.
 
 ---
 
