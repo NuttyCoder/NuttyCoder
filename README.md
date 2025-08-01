@@ -16,22 +16,22 @@
 
 ---
 
-## 🛠️ Languages & Tools Used
-## Data 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+ 🛠️ Languages & Tools Used
+ Data 
+[Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+[Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+[PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
+[Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+[NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+[Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+[TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+[SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+[Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?logo=spyder%20ide&logoColor=maroon)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+[GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ## Software Engineer with Dev ops
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)
